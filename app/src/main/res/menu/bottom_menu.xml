@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/Proitem"
+            android:title="Profile"
+            android:icon="@drawable/profile" />
+        <item
+            android:id="@+id/Cart_item"
+            android:title="Calender"
+            android:icon="@drawable/baseline_calendar_month_24" />
+        <item
+            android:id="@+id/fab"
+            android:title=""
+           android:enabled="false"/>
+        <item
+            android:id="@+id/Searchitem"
+            android:title="Categories"
+            android:icon="@drawable/search_icon"/>
+        <item
+            android:id="@+id/Chatitem"
+            android:title="Message"
+            android:icon="@drawable/message_icon"/>
+
+
+
+</menu>

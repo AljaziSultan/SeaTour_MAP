@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="DarkBlue_SeaTour">#0081C9</color>
+    <color name="ToolBar_SeaTour">#5BC0F8</color>
+    <color name="Sucess_Green">#379237</color>
+    <color name="Error_Red">#850000</color>
+    <color name="Clue_SeaTour">#86E5FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#919191</color>
+    <color name="lavender">#FFC93C</color>
+
+
+    <color name="grey_background">#EBEDEF</color>
+    <color name="Yellow_SeaTour">#FFC93C</color>
+
+    <color name="primary1">#5BC0F8</color>
+    <color name="primary2">#86E5FF</color>
+    <color name="primary3">#0081C9</color>
+    <color name="secondary">#FFC93C</color>
+
+    <color name="night_mode">#1B023B</color>
+    <color name="notification">#13B2C3</color>
+    <color name="private_account">#E6A326</color>
+    <color name="security">#D95F69</color>
+
+</resources>

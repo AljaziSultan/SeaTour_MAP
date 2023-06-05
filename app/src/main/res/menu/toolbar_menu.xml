@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+    <group
+        android:checkableBehavior="single">
+    <item
+        android:id="@+id/Profileitem"
+        android:title="Profile"
+        android:icon="@drawable/profile" />
+        <item
+            android:id="@+id/Calendaritem"
+            android:title="Calendar"
+            android:icon="@drawable/baseline_calendar_month_24" />
+    <item
+        android:id="@+id/Homeitem"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24" />
+    <item
+        android:id="@+id/Catitem"
+        android:title="Categories"
+        android:icon="@drawable/cate_icon"/>
+    <item
+        android:id="@+id/BookMapitem"
+        android:title="Book From a Map"
+        android:icon="@drawable/map_icon"/>
+        <item
+            android:title="Quick Search"
+            android:id="@+id/QuicKSearchitem"
+            android:icon="@drawable/search_icon"
+         />
+
+    <item
+        android:id="@+id/AboutUsitem"
+        android:title="About Us"
+        android:icon="@drawable/info_icon"/>
+    <item
+        android:id="@+id/ContactUsitem"
+        android:title="Contact Us"
+        android:icon="@drawable/baseline_home_24"/>
+
+    </group>
+    <item
+        android:title="">
+    <menu>
+
+        <item
+            android:id="@+id/LogOutitem"
+            android:title="Log Out"
+            android:icon="@drawable/ogout_icon"/>
+    </menu>
+    </item>
+</menu>
